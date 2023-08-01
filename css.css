@@ -1,0 +1,61 @@
+.menu{
+    background-color: aquamarine;
+    height: 12cm;
+    width: 20%;
+}
+.content{
+    background-color: rgb(72, 140, 117);
+    height: 12cm;
+    width: 70%;
+    display: flex;
+}
+.row{
+    display: flex;
+    margin-top: 3cm;
+    margin-left: 2cm;
+}
+.form{
+    background-color: rgb(77, 152, 124);
+    height: 12cm;
+    width: 40%;
+}
+.table{
+    background-color: rgb(79, 171, 136);
+    height: 12cm;
+    width: 60%;
+}
+ol li{
+    list-style: none;
+    font-size: 30px;
+    margin-top: 0.4cm;
+    font-family: cursive;
+    text-transform:capitalize;
+}
+input{
+    height: 1cm;
+    width: 100%;
+    margin-top: 0.5cm;
+}
+.btn{
+    background-color: rgb(17, 56, 43);
+    height: 1cm;
+    width: 3cm;
+    margin-top: 1cm;
+    color: azure;
+}
+table{
+    background-color: aliceblue;
+    width: 100%;
+}
+h3{
+    
+    font-size: 30px;
+    margin-top: 0.4cm;
+    font-family: cursive;
+    text-transform:capitalize; 
+    color: beige;  
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
